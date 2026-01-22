@@ -141,7 +141,7 @@ p {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
     .menu-toggle {
         display: block;
     }
@@ -178,12 +178,12 @@ p {
 
 .home {
     width: 100%;
-    height: 50vh;
+    height: 30vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 50px 8% 0;
-    margin-top: 10vh;
+    margin-top: 15vh;
     gap: 50vh;
 }
 
@@ -193,19 +193,12 @@ p {
     max-width: 600px;
 }
 
-.home-content h1 {
-    margin-top: 10vh;
-    font-family: "Montserrat", sans-serif;
-    font-size: 70px;
-    line-height: 1.2;
-    color: #009abf;
-}
-
 .home-content p {
     font-family: "Roboto Flex", serif;
-    font-size: 22px;
+    font-size: 30px;
     margin: 15px 0 30px;
     max-width: 500px;
+    margin-top: 120px;
 }
 
 .btn {

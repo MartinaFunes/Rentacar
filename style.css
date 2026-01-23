@@ -18,7 +18,7 @@ h2 {
 }
 
 p {
-    font-size: 22px;
+    font-size: 30px;
     margin-top: 5vh;
     line-height: 1.5;
     letter-spacing: 3px;
@@ -341,15 +341,15 @@ p {
 
 .flota{
     width: 100%;
-    margin-top: 15vh;
+    margin-top: 10vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 35px;
+    margin-bottom: 15px;
 }
 
 .flota-home{
-    max-width: 80vh;
+    max-width: 90vh;
     text-align: center;
 
 }
